@@ -1,7 +1,7 @@
 ## Zee5 DL
 A powerfull Zee5 Downloader Bot With Permeneant Thumbnail Support 💯 With Love From NexonHex
 
-**What Can I Do ?**:
+## **What Can I Do ?**
 
 • Upload as file/video from any NON-DRM Zee5 link
 
