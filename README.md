@@ -26,9 +26,9 @@ sudo apt install python3-pip
 sudo apt install ffmpeg
 ```
 
-<ɪ>* Cʀᴇᴀᴛᴇ ᴄᴏɴғɪɢ.ᴘʏ ᴀᴘᴘʀᴏᴘʀɪᴀᴛᴇʟʏ (Rᴇғᴇʀ Cᴏɴғɪɢs sᴇᴄᴛɪᴏɴ)
+* Cʀᴇᴀᴛᴇ ᴄᴏɴғɪɢ.ᴘʏ ᴀᴘᴘʀᴏᴘʀɪᴀᴛᴇʟʏ (Rᴇғᴇʀ Cᴏɴғɪɢs sᴇᴄᴛɪᴏɴ)
 
-* Rᴜɴ ᴛʜᴇ ᴀᴘᴘ<ɪ>
+* Rᴜɴ ᴛʜᴇ ᴀᴘᴘ
 
 ```sh
 git clone https://github.com/Psycharmers/Zee5-DL
