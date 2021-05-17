@@ -11,7 +11,7 @@ A powerfull Zee5 Downloader Bot With Permeneant Thumbnail Support 💯 With Love
 ### Installation
 
 
-#### Deploy to Heroku
+<i>#### Deploy to Heroku<i>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TrojazHex/Zee5-Downloader)
 
@@ -24,9 +24,9 @@ sudo apt install python3-pip
 sudo apt install ffmpeg
 ```
 
-* Create config.py appropriately (Refer Configs section)
+<i>* Create config.py appropriately (Refer Configs section)
 
-* Run the app
+* Run the app<i>
 
 ```sh
 git clone https://github.com/Psycharmers/Zee5-DL
@@ -54,4 +54,4 @@ python3 bot.py
 ## Credits, and Thanks to Beloved Developers ;
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell)<b>
+* [Dan Tès](https://telegram.dog/haskell)
