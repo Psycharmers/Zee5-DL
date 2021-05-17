@@ -35,7 +35,7 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
-## Configs
+<b>## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 * APP_ID        - From my.telegram.org (or @UseTGXBot)
@@ -54,4 +54,4 @@ python3 bot.py
 ## Credits, and Thanks to Beloved Developers ;
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell)
+* [Dan Tès](https://telegram.dog/haskell)<b>
