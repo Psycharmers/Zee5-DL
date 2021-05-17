@@ -6,7 +6,7 @@ A powerfull Zee5 Downloader Bot With Permeneant Thumbnail Support 💯 With Love
 <b>• i can Upload as file/video from any 
   NON-DRM Zee5 link...
 
-• Also Supported Permanent thumbnail support 💯...
+• Also Supported Permanent thumbnail support 💯...<b>
 
 ### Installation
 
