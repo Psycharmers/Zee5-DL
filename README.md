@@ -55,8 +55,8 @@ python3 bot.py
 
 ## Cʀᴇᴅɪᴛs, ᴀɴᴅ Tʜᴀɴᴋs ᴛᴏ Bᴇʟᴏᴠᴇᴅ Dᴇᴠᴇʟᴏᴘᴇʀs ;
 
-* [Ns Anonymous](ʜᴛᴛᴘs://ᴛᴇʟᴇɢʀᴀᴍ.ᴅᴏɢ/SᴘEᴄHʟDᴇ) 
-* [Mr. A](ʜᴛᴛᴘs://ᴛᴇʟᴇɢʀᴀᴍ.ᴅᴏɢ/ʜᴀsᴋᴇʟʟ)
-* [DIAGO !]
-* [Lawliet]
-* [Heimean Creatin]
+* Ns Anonymous 
+* Mr. A
+* DIAGO !
+* Lawliet
+* Heimean Creatin
