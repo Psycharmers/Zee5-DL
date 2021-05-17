@@ -63,11 +63,10 @@ python3 bot.py
 
 ## Devolopers
 
-[![Hex rider](https://img.shields.io/badge/Hexrider-Python-Blue?style=for-the-badge&logo=telegram)](https://telegram.dog/Hexrider)  
+• [![Hex rider](https://img.shields.io/badge/Hexrider-Python-Blue?style=for-the-badge&logo=telegram)](https://telegram.dog/Hexrider)  
 
-[![Hex Warrior](https://img.shields.io/badge/Hex Warrior-Java-Blue?style=for-the-badge&logo=telegram)](https://telegram.dog/Xrealm_raider)  
+• [![Hex Warrior](https://img.shields.io/badge/HexWarrior-Java-Blue?style=for-the-badge&logo=telegram)](https://telegram.dog/Xrealm_raider)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 
