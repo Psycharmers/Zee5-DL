@@ -3,7 +3,7 @@ A powerfull Zee5 Downloader Bot With Permeneant Thumbnail Support 💯 With Love
 
 ## **What Can I Do ?**
 
-• i can Upload as file/video from any 
+<b>• i can Upload as file/video from any 
   NON-DRM Zee5 link...
 
 • Also Supported Permanent thumbnail support 💯...
@@ -54,4 +54,4 @@ python3 bot.py
 ## Credits, and Thanks to Beloved Developers ;
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell)
+* [Dan Tès](https://telegram.dog/haskell)<b>
