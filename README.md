@@ -8,10 +8,10 @@ A powerfull Zee5 Downloader Bot With Permeneant Thumbnail Support 💯 With Love
 
 • Also Supported Permanent thumbnail support 💯...<b>
 
-<i>### Installation
+### Installation
 
 
-<i>#### Deploy to Heroku<i>
+#### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TrojazHex/Zee5-Downloader)
 
