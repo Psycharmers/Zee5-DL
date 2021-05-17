@@ -3,17 +3,17 @@ A powerfull Zee5 Downloader Bot With Permeneant Thumbnail Support 💯 With Love
 
 ## **What Can I Do ?**
 
-• Upload as file/video from any 
-  NON-DRM Zee5 link
+• i can Upload as file/video from any 
+  NON-DRM Zee5 link...
 
-• Permanent thumbnail support.
+• Also Supported Permanent thumbnail support 💯...
 
 ### Installation
 
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TroJanzHEX/Zee5-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Psycharmers/Zee5-Downloader)
 
 #### Run in your VPS
 
