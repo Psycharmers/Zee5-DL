@@ -20,20 +20,21 @@ A ᴘᴏᴡᴇʀғᴜʟʟ Zᴇᴇ5 Dᴏᴡɴʟᴏᴀᴅᴇʀ Bᴏᴛ Wɪᴛʜ P�
 
 * Iɴsᴛᴀʟʟ ʀᴇᴏ̨ᴜɪʀᴇᴍᴇɴᴛs
 
-```sʜ
-sᴜᴅᴏ ᴀᴘᴛ ɪɴsᴛᴀʟʟ ᴘʏᴛʜᴏɴ3-ᴘɪᴘ
-sᴜᴅᴏ ᴀᴘᴛ ɪɴsᴛᴀʟʟ ғғᴍᴘᴇɢ
+
+```sh
+sudo apt install python3-pip
+sudo apt install ffmpeg
 ```
 
 <ɪ>* Cʀᴇᴀᴛᴇ ᴄᴏɴғɪɢ.ᴘʏ ᴀᴘᴘʀᴏᴘʀɪᴀᴛᴇʟʏ (Rᴇғᴇʀ Cᴏɴғɪɢs sᴇᴄᴛɪᴏɴ)
 
 * Rᴜɴ ᴛʜᴇ ᴀᴘᴘ<ɪ>
 
-```sʜ
-ɢɪᴛ ᴄʟᴏɴᴇ ʜᴛᴛᴘs://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/Psʏᴄʜᴀʀᴍᴇʀs/Zᴇᴇ5-DL
-ᴄᴅ Zᴇᴇ5-DL
-ᴘɪᴘ3 ɪɴsᴛᴀʟʟ -ʀ ʀᴇᴏ̨ᴜɪʀᴇᴍᴇɴᴛs.ᴛxᴛ
-ᴘʏᴛʜᴏɴ3 ʙᴏᴛ.ᴘʏ
+```sh
+git clone https://github.com/Psycharmers/Zee5-DL
+cd Zee5-DL
+pip3 install -r requirements.txt
+python3 bot.py
 ```
 
 <ʙ>## Cᴏɴғɪɢs
