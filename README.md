@@ -67,6 +67,5 @@ python3 bot.py
 
 • [![Hex Warrior](https://img.shields.io/badge/HexWarrior-Java-Blue?style=for-the-badge&logo=telegram)](https://telegram.dog/Xrealm_raider)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-ㅤㅤㅤㅤㅤㅤㅤ  
 
-
+If U  Found Any Bugs To the repostrie or to the bot report us on telegram [@NexonHex](https://t.me/nexonHex)
